@@ -7,6 +7,7 @@ The functions of sRNAminer are divided into three main parts. (1) Data pre-proce
 
 ## Download and Installation
 sRNAminer is a platform-independent software that can be run under all operating systems. lt is freely available to **non-commercial** users at https://github.com/kli28/sRNAminer/releases
+
 For the command-line version, users can download it from conda:
 ```shell
 conda install srnaminer
