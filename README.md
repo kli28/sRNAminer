@@ -13,4 +13,6 @@ For the command-line version, users can download it from conda:
 ```shell
 conda install srnaminer
 ```
+## Instruction
+https://www.yuque.com/u758713/at2327
 
