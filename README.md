@@ -18,7 +18,7 @@ https://www.yuque.com/u758713/at2327 (Recommend)
 or
 PDF in the releases
 ## Q&A
-1. Why all the miRNAs in result file are labeled "Novel"?
+1. Why all the miRNAs in the result file are labeled "Novel"?
 
 This may be because your blast software is not running successfully, try downloading a stable version of blast.
 ```shell
